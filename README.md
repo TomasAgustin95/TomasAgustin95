@@ -4,7 +4,7 @@ It's **Tomas Agustin**, a ✨ blockchain ✨ developer with a passion for decent
 
 ### 🧐 More About Me:
 
-<img align="right" alt="GIF" src="./techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="./techstack.gif" width="300px"/>
 
 - 🔭 I'm currently developing high-performance sniper trading bots for DEXs.
 - 🌱 Learning blockchain advancements: scalability, interoperability, trading strategies, and algorithms.
