@@ -19,6 +19,6 @@ It's **Tomas Agustin**, a ✨ blockchain ✨ developer with a passion for decent
 Let's excel in building powerful sniper trading bots and revolutionize the world of blockchain-based trading together! ✨🚀
 
 <div align="center">
-<img align="center" alt="GIF" src="./code.gif" width="360px" height="160px"/>
+<img align="center" alt="GIF" src="./code.gif" width="300px" height="160px"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TomasAgustin95&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="TomasAgustin's Github Stats">
 </div>
