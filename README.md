@@ -10,7 +10,6 @@ Here's a bit about me:
 - 🤔 I'm always looking for help and insights from fellow blockchain enthusiasts and experts to enhance my skills and knowledge.
 - 💬 Feel free to ask me anything related to blockchain development, smart contracts, or decentralized applications (dApps).
 - 📫 You can reach me through my GitHub profile or by connecting with me on LinkedIn.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe that blockchain technology has the potential to reshape various sectors, including finance, supply chain, healthcare, and more.
 
 Let's build the future of decentralized applications together! ✨🚀
