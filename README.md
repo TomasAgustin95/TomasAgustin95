@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-It's **Tomas Agustin**, a ✨ blockchain ✨ developer with a passion for decentralized technologies, specializing in sniper trading bots.
+It's **Tomas Agustin**, a ✨ blockchain ✨ developer with a passion for decentralized technologies, specializing in Networking API, Web3 and sniper trading bots.
 
 ### 🧐 More About Me:
 
