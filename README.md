@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-It's **Tomas Agustin**, a ✨ blockchain api✨ developer with a passion for decentralized technologies, specializing in Networking API, Web3 and sniper trading bots.
-
+It's **Tomas Agustin**, a ✨ blockchain api✨ developer with a passion for decentralized technologies, specializing in Networking API, Web3 and Dapp.
 ### 🧐 More About Me:
 
 <img align="right" alt="GIF" src="./techstack.gif" width="300px"/>
