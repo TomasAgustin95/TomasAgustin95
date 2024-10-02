@@ -10,7 +10,6 @@ It's **Tomas Agustin**, a ✨ blockchain api✨ developer passionate about decen
 - 👯 Seeking collaboration with passionate blockchain developers and traders for efficient and profitable trading bots.
 <!-- 👯 I’m open to collaborating on blockchain that aims to revolutionize industries and solve real-world problems. -->
 - 🤔 I’m open to help and guidance from experienced traders and developers to enhance the performance and effectiveness of my sniper trading bots.
-<!-- - 🤔 I'm always seeking help and insights from fellow blockchain enthusiasts and experts to enhance my skills and knowledge. -->
 - 💬 Ask me anything about blockchain-based trading bots, sniper trading strategies, or general blockchain development.
 - ⚡ Fun fact: Blockchain + automated trading = Profitable opportunities. Trading bots reshape sectors, like finance, supply chain, and healthcare.
 
