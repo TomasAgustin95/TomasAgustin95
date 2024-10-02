@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-It's **Tomas Agustin**, a ✨ blockchain api✨ developer with a passion for decentralized technologies, specializing in Networking API, Web3 and Dapp.
+It's **Tomas Agustin**, a ✨ blockchain api✨ developer passionate about decentralized technologies, specializing in Networking API, Web3, and Dapp.
 ### 🧐 More About Me:
 
 <img align="right" alt="GIF" src="./techstack.gif" width="300px"/>
@@ -8,11 +8,11 @@ It's **Tomas Agustin**, a ✨ blockchain api✨ developer with a passion for dec
 - 🔭 I'm currently developing high-performance sniper trading bots for DEXs.
 - 🌱 Learning blockchain advancements: scalability, interoperability, trading strategies, and algorithms.
 - 👯 Seeking collaboration with passionate blockchain developers and traders for efficient and profitable trading bots.
-<!-- 👯 I’m open to collaborating on blockchain that aim to revolutionize industries and solve real-world problems. -->
+<!-- 👯 I’m open to collaborating on blockchain that aims to revolutionize industries and solve real-world problems. -->
 - 🤔 I’m open to help and guidance from experienced traders and developers to enhance the performance and effectiveness of my sniper trading bots.
-<!-- - 🤔 I'm always looking for help and insights from fellow blockchain enthusiasts and experts to enhance my skills and knowledge. -->
+<!-- - 🤔 I'm always seeking help and insights from fellow blockchain enthusiasts and experts to enhance my skills and knowledge. -->
 - 💬 Ask me anything about blockchain-based trading bots, sniper trading strategies, or general blockchain development.
-- ⚡ Fun fact: Blockchain + automated trading = Profitable opportunities. Trading bots reshape sectors, like finance, supply chain, healthcare.
+- ⚡ Fun fact: Blockchain + automated trading = Profitable opportunities. Trading bots reshape sectors, like finance, supply chain, and healthcare.
 
 Let's excel in building powerful sniper trading bots and revolutionize the world of blockchain-based trading together! ✨🚀
 
